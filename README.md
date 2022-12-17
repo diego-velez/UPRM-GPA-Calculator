@@ -49,5 +49,5 @@ The resulting JSON file will look something like this:
 
 ## Dependency
 
-This project depends on [this](https://github.com/diego-velez/Tabletery) project. You must download the source
-and place it in the same parent folder as this one.
+This project depends on [this](https://github.com/diego-velez/Tabletery) project. You must run the
+`downloadTabletery` Gradle task before building the app.
